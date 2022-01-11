@@ -7,6 +7,10 @@
 
 2. Um diretor dirige no máximo um departamento. Um
 departamento tem no máximo um diretor.
+
+![image](https://user-images.githubusercontent.com/93677384/149006779-369f32cb-5513-4ece-8411-9bc24837281f.png)
+
+
 3. Um autor escreve vários livros. Um livro pode ser
 escrito por vários autores.
 4. Uma equipe é composta por vários jogadores. Um
