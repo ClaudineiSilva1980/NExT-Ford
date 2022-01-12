@@ -40,15 +40,17 @@ Projeto(NumeroProjeto, NomeProjeto)
 TrabalhaProjeto(NumProjeto, NumEmpregado, dataInicio, NumeroHoras, ValorHoras)
 ```
 2. OrdemCompra (codOrdem, dtEmissão, codFornecedor, nomeFornecedor, endereçoFornecedor, codMaterial (n vezes), descriçãoMaterial (n vezes), qtComprada (n vezes), valorUnitário (n vezes), valorTotalItem (n vezes), valorTotalOrdem).
+
+```
 CódOrdem, CódMaterial -> dtEmissão, qtComprada (n vezes), valorTotalItem (n vezes), valorTotalOrdem. 
 CódFornecedor -> nomeFornecedor, endereçoFornecedor, 
 CódMaterial -> descriçãoMaterial (n vezes),  valorUnitário (n vezes), 
-
+```
 2FN
 Material (CódMaterial, descriçãoMaterial (n vezes),  valorUnitário (n vezes))
 Fornecedor (codFornecedor, nomeFornecedor, endereçoFornecedor)
 OrdemCOmpra (CódOrdem, CódMaterial, dtEmissão, qtComprada (n vezes), valorTotalItem (n vezes), valorTotalOrdem)
-
+```
 
 
 4. Tabela de Notas Fiscais (NumNF, Série, Data emissão, CodCliente, NomeCliente, EndereçoCliente, CGC cliente, Código Mercadoria, Descrição Mercadoria, Quantidade vendida, Preço de venda, Total da venda da Mercadoria e Total Geral da Nota).Cada nota pode ter mais de uma mercadoria. 
