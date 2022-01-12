@@ -50,7 +50,7 @@ CódMaterial -> descriçãoMaterial (n vezes),  valorUnitário (n vezes),
 2FN
 Material (CódMaterial, descriçãoMaterial (n vezes),  valorUnitário (n vezes))
 Fornecedor (codFornecedor, nomeFornecedor, endereçoFornecedor)
-OrdemCOmpra (CódOrdem, CódMaterial, dtEmissão, qtComprada (n vezes), valorTotalItem (n vezes), valorTotalOrdem)
+OrdemCOmpra (CódOrdem,  dtEmissão, CódMaterial,  qtComprada (n vezes), valorTotalItem (n vezes), valorTotalOrdem)
 ```
 
 
