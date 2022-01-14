@@ -24,6 +24,8 @@ INSERT INTO movies VALUES (6, "Disney's Up", 2009);
 
 ### Etapa 1 - Selecione tudo
 Este banco de dados contém uma lista incompleta de sucessos de bilheteria e seu ano de lançamento. Nesse desafio, você vai obter os resultados do banco de dados de formas diferentes! Nessa primeira etapa, selecione todos os filmes (`movies`).
+![image](https://user-images.githubusercontent.com/93677384/149577363-36b63cd2-5593-4763-a5a5-ed691f797ddf.png)
+
 
 ### Etapa 2 - Filtrar filmes recentes
 Agora faça uma segunda pesquisa para obter os filmes lançados no ano 2000 ou depois, não antes (consulte `release_year`). Ordene os resultados para que os filmes mais antigos sejam listados primeiro. Você deverá ter 2 comandos `SELECT` depois deste passo.
