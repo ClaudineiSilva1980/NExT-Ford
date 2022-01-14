@@ -29,6 +29,7 @@ Este banco de dados contém uma lista incompleta de sucessos de bilheteria e seu
 
 ### Etapa 2 - Filtrar filmes recentes
 Agora faça uma segunda pesquisa para obter os filmes lançados no ano 2000 ou depois, não antes (consulte `release_year`). Ordene os resultados para que os filmes mais antigos sejam listados primeiro. Você deverá ter 2 comandos `SELECT` depois deste passo.
+![image](https://user-images.githubusercontent.com/93677384/149580974-bd38b512-3571-4516-ab2d-bc7d74abedf5.png)
 
 ---
 
