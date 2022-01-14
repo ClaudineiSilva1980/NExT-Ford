@@ -51,6 +51,9 @@ Esta é uma tabela contendo uma lista de afazeres com o número de minutos que v
 ### Etapa 2 - Faça a soma
 Selecione a soma SUM de minutos que vai levar para fazer todos os itens da sua lista de afazeres. Você deve ter apenas uma instrução SELECT.
 
+![image](https://user-images.githubusercontent.com/93677384/149583070-b7599e25-0623-4bd3-9492-53e1942c84e8.png)
+
+
 ---
 
 ## Seletor de músicas de karaokê
