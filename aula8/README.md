@@ -44,6 +44,8 @@ INSERT INTO todo_list VALUES (3, "Learn some stuff on KA", 30);
 
 ### Etapa 1 - Insira uma tarefa
 Esta é uma tabela contendo uma lista de afazeres com o número de minutos que vai levar para completar cada item. Insira outro item à lista de afazeres com o tempo estimado em minutos que ele vai levar.
+![image](https://user-images.githubusercontent.com/93677384/149582145-b76285e4-9c84-4f1e-8814-a5b7a10f0c84.png)
+
 
 ### Etapa 2 - Faça a soma
 Selecione a soma SUM de minutos que vai levar para fazer todos os itens da sua lista de afazeres. Você deve ter apenas uma instrução SELECT.
