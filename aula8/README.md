@@ -6,6 +6,8 @@ Quais são os seus livros favoritos? Você pode criar uma tabela no banco de dad
 ### Etapa 2 - Adicione livros
 Agora adicione à tabela três dos seus livros favoritos.
 
+![image](https://user-images.githubusercontent.com/93677384/149572027-008fe8f7-16a7-40de-b846-c7d039583d57.png)
+
 ---
 
 ## Banco de dados de sucessos de bilheteria
