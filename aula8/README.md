@@ -155,6 +155,9 @@ INSERT INTO songs (artist, title) VALUES ("Guns N' Roses", "Don't cry");
 ### Etapa 1
 Criamos um banco de dados de músicas e artistas e, nesse desafio, você vai criar listas de reprodução a partir desses dados. Nessa primeira etapa, selecione o título, `title`, de todas as músicas cujo artista, `artist`, é a banda ___"Queen"___.
 
+![image](https://user-images.githubusercontent.com/93677384/149625221-9011bf46-c877-4043-803c-e2b51e75a0c6.png)
+
+
 ### Etapa 2
 Agora você vai fazer uma lista de reprodução ***"Pop"***. Para se preparar, selecione o nome,`name`, de todos os artistas do gênero ***"Pop"***.
 (Dica: lembre-se de digitar ***"Pop"***, porque o SQL considera isso diferente de ***"pop"***).
