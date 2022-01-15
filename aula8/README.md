@@ -80,14 +80,23 @@ INSERT INTO songs (title, artist, mood, duration, released) VALUES ("Call me may
 ### Etapa 1
 Você já cantou alguma vez em um karaokê? É um lugar onde você canta com seus amigos, é muito divertido. Criamos uma tabela com músicas e, nesse desafio, você vai usar consultas para decidir quais músicas cantar. Nessa primeira etapa, selecione todos os títulos das músicas.
 
+![image](https://user-images.githubusercontent.com/93677384/149624044-7a3a88ea-a857-43ff-857e-25b0ca2b1661.png)
+
+
 ### Etapa 2
 Talvez seus amigos gostem de cantar apenas músicas recentes ou realmente épicas. Adicione outro SELECT que usaOR para mostrar os títulos das músicas que são do tipo "epic" ou que tenham data de lançamento posterior a 1990.
+
+![image](https://user-images.githubusercontent.com/93677384/149624242-e551b4c6-c906-4b3c-b048-cf80c697f011.png)
+
 
 (Dica: se você não se lembra de como selecionar linhas nas quais uma coluna do tipo `TEXT` ou `VARCHAR` é igual a um valor, você pode usar o `LIKE`).
 
 ### Etapa 3
 As pessoas se tornam exigentes no fim da noite. Adicione outro SELECT que usa ANDpara mostrar títulos de músicas épicas, "epic", **e** lançadas após 1990, __e__ que tenham menos de 4 minutos de duração.
 Perceba que a coluna de duração, duration, é medida em segundos.
+
+![image](https://user-images.githubusercontent.com/93677384/149624324-a713d20a-12b8-492a-ae2f-3fe287733587.png)
+
 
 ---
 
