@@ -162,14 +162,17 @@ Criamos um banco de dados de músicas e artistas e, nesse desafio, você vai cri
 Agora você vai fazer uma lista de reprodução ***"Pop"***. Para se preparar, selecione o nome,`name`, de todos os artistas do gênero ***"Pop"***.
 (Dica: lembre-se de digitar ***"Pop"***, porque o SQL considera isso diferente de ***"pop"***).
 
-![image](https://user-images.githubusercontent.com/93677384/149627044-78309730-12c6-4fa4-8d09-0b7b3b77b17f.png)
+![image](https://user-images.githubusercontent.com/93677384/149631217-06d9fc37-08fe-4168-ac2b-2ef718fa6996.png)
 
-![image](https://user-images.githubusercontent.com/93677384/149627167-e9b0f8b7-7c3e-4bab-92cc-63e9b3fb40f7.png)
 
 
 
 ### Etapa 3
 Para terminar de criar a lista de reprodução ***"Pop"***, adicione outra busca que vai selecionar o título, `title`, de todas as músicas dos artistas do gênero ***"Pop"***. Ela deve usar `IN` em uma sub-busca aninhada com base em sua busca anterior.
+
+![image](https://user-images.githubusercontent.com/93677384/149627044-78309730-12c6-4fa4-8d09-0b7b3b77b17f.png)
+
+![image](https://user-images.githubusercontent.com/93677384/149631290-8fac76d9-278b-48ed-85ec-ffe1ac21fc4d.png)
 
 ---
 
